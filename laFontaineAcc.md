@@ -32,6 +32,8 @@ Voici des captures d’écrans d’un exemple de réalisation :
 
 ![Capture d'un exemple de résultat attendu pour la page d'accueil](index_rendu.png "capture d'un exemple de solution : index.html")
 
+---
+
 ![Capture d'un exemple de résultat attendu pour le retour vers la page d'accueil](cigale_rendu.png "capture d'un exemple de solution : cigale.html")
 
 Le plan de votre page doit correspondre au résultat suivant :
