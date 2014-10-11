@@ -1,0 +1,27 @@
+body{
+	font:16px/1.2 Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", Times, serif;
+	width:90%;
+	max-width:50em;
+	margin: 2em auto;
+}
+header, section, footer{
+	padding: 0 1em;
+}
+blockquote{
+	margin-left:10em;
+}
+q{
+	quotes:"«\00A0" "\00A0»";
+}
+p{
+	margin:0.5em 0;
+}
+.author{
+	font-style:normal; font-variant:small-caps;
+}
+hr{
+	margin:2.5em 0 2em; color:#eee;
+}
+blockquote footer{
+	margin-top:1em;
+}
